@@ -1,15 +1,14 @@
 {
   "last_updated": "2026-05-12",
-  "current_chapter": "1.2",
   "chapters": {
     "1.1": {
-      "title": "语法快速迁移",
-      "status": "completed",
-      "completed_exercises": ["Q1", "Q2", "Q3"]
+      "title": "语法快速迁移（C# → Python）",
+      "status": "pending",
+      "completed_exercises": []
     },
     "1.2": {
       "title": "数据类型与操作",
-      "status": "learning",
+      "status": "pending",
       "completed_exercises": []
     },
     "1.3": {
@@ -18,7 +17,7 @@
       "completed_exercises": []
     },
     "1.4": {
-      "title": "面向对象（深度）",
+      "title": "面向对象深度版",
       "status": "pending",
       "completed_exercises": []
     },
